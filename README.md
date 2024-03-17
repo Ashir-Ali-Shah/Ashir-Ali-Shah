@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python for Data Science**
 
-- 💬 Ask me about **HTML, CSS, and Bootstrap**
+- 💬 Ask me about **Python, Machine Learning, and Deep Learning!**
 
 - 📫 How to reach me **ashirali2k3@gmail.com**
 
