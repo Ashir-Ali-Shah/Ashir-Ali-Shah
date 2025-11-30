@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ashir Ali Shah</h1>
-<h3 align="center">Full-Stack Data Scientist | AI Engineer</h3>
+<h3 align="center">Full-Stack Data Scientist | AI Engineer | Deep Learning Practitioner</h3>
 
 <p align="center">
-  <em>Building production-ready AI systems that bridge the gap between complex ML models and real-time user interfaces.</em>
+  <em>Building production-ready AI systems that bridge the gap between complex ML models, Big Data pipelines, and real-time user interfaces.</em>
 </p>
 
 <img align="right" alt="Coding" height="180" width="180" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796c4e657874446576696c666973682d736d616c6c2e676966">
@@ -16,8 +16,9 @@
 </p>
 
 - 🔭 I’m currently working on **Productionizing RAG pipelines and LSTM forecasting models.**
-- 🌱 I’m currently exploring **Agentic AI workflows and Advanced Vector Search.**
-- 💡 Specialization: **End-to-end ML Systems (Data Ingestion → Model Training → FastAPI → React Dashboard).**
+- 🌱 I’m currently exploring **Agentic AI workflows, PySpark for Big Data, and Advanced Vector Search.**
+- 💡 Specialization: **End-to-end ML Systems (Data Ingestion → Model Training → Flask/FastAPI → React Dashboard).**
+- 🧠 Core Competencies: **Deep Learning architectures, Vector Similarity Search (FAISS), and Statistical Modeling.**
 - 📫 How to reach me: **ashirali2k3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -36,15 +37,17 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <br>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/XGBoost-EB981D?style=for-the-badge&logo=xgboost&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <br>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-005571?style=for-the-badge&logo=meta&logoColor=white" />
   <img src="https://img.shields.io/badge/Weaviate-FA3C6E?style=for-the-badge&logo=weaviate&logoColor=white" />
-  <img src="https://img.shields.io/badge/Llama_3-040830?style=for-the-badge&logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG_Pipelines-4B275F?style=for-the-badge&logo=openai&logoColor=white" />
   <br>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
@@ -55,7 +58,7 @@
 
 ---
 
-<h2 align="center">🚀 Featured Deployment & Research</h2>
+<h2 align="center">🚀 Featured Deployments</h2>
 
 <table align="center">
   <tr>
