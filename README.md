@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **Productionizing RAG pipelines and LSTM forecasting models.**
 - 🌱 I’m currently exploring **Agentic AI workflows, PySpark for Big Data, and Advanced Vector Search.**
-- 💡 Specialization: **End-to-end ML Systems (Data Ingestion → Model Training → Flask/FastAPI → React Dashboard).**
+- 💡 Specialization: **End-to-end ML Systems (Data Ingestion → Model Training → Flask/FastAPI → React Dashboard -> Docker).**
 - 🧠 Core Competencies: **Machine Learning (ML) architectures, Deep Learning (DL) architectures, Vector Similarity Search (FAISS), and Statistical Modeling.**
 - 📫 How to reach me: **ashirali2k3@gmail.com**
 
