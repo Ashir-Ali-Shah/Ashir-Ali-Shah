@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashir Ali Shah</h1>
-<h3 align="center">Full-Stack Data Scientist | AI Engineer | Deep Learning Practitioner</h3>
+<h3 align="center">Full-Stack Data Scientist | AI Engineer</h3>
 
 <p align="center">
   <em>Building production-ready AI systems that bridge the gap between complex ML models, Big Data pipelines, and real-time user interfaces.</em>
