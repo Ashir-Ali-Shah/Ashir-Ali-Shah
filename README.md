@@ -132,9 +132,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashir-ali-shah&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ashir-ali-shah" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashir-ali-shah&theme=tokyonight" alt="ashir-ali-shah" />
