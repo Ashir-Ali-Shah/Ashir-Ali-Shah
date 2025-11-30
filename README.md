@@ -1,15 +1,24 @@
-<h1>Hi 👋, I'm Ashir Ali Shah</h1>
-<h3 align="center">A passionate data scientist with a knack for solving problems.</h3>
-<img align="right" alt="Coding" height = "200" width="200" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashir-ali-shah&label=Profile%20views&color=0e75b6&style=flat" alt="ashir-ali-shah" /> </p>
+<h1 align="center">Hi 👋, I'm Ashir Ali Shah</h1>
+<h3 align="center">Full-Stack Data Scientist | AI Engineer</h3>
 
-<p align="left"> <a href="https://twitter.com/hailashirali" target="blank"><img src="https://img.shields.io/twitter/follow/hailashirali?logo=twitter&style=for-the-badge" alt="hailashirali" /></a> </p>
+<p align="center">
+  <em>Building production-ready AI systems that bridge the gap between complex ML models and real-time user interfaces.</em>
+</p>
 
-- 🌱 I’m currently learning **Python for Data Science**
+<img align="right" alt="Coding" height="180" width="180" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796c4e657874446576696c666973682d736d616c6c2e676966">
 
-- 💬 Ask me about **Python, Machine Learning, and Deep Learning!**
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=ashir-ali-shah&label=Profile%20views&color=0e75b6&style=flat" alt="ashir-ali-shah" /> 
+</p>
 
-- 📫 How to reach me **ashirali2k3@gmail.com**
+<p align="left"> 
+  <a href="https://twitter.com/hailashirali" target="blank"><img src="https://img.shields.io/twitter/follow/hailashirali?logo=twitter&style=for-the-badge" alt="hailashirali" /></a> 
+</p>
+
+- 🔭 I’m currently working on **Productionizing RAG pipelines and LSTM forecasting models.**
+- 🌱 I’m currently exploring **Agentic AI workflows and Advanced Vector Search.**
+- 💡 Specialization: **End-to-end ML Systems (Data Ingestion → Model Training → FastAPI → React Dashboard).**
+- 📫 How to reach me: **ashirali2k3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,9 +27,113 @@
 <a href="https://instagram.com/hailashirali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hailashirali" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashir-ali-shah&show_icons=true&locale=en&layout=compact" alt="ashir-ali-shah" /></p>
+<h2 align="center">🛠 Tech Stack & Tools</h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashir-ali-shah&" alt="ashir-ali-shah" /></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-EB981D?style=for-the-badge&logo=xgboost&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Weaviate-FA3C6E?style=for-the-badge&logo=weaviate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Llama_3-040830?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG_Pipelines-4B275F?style=for-the-badge&logo=openai&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+---
+
+<h2 align="center">🚀 Featured Deployment & Research</h2>
+
+<table align="center">
+  <tr>
+    <th width="30%">Project</th>
+    <th width="40%">Architecture & Techniques</th>
+    <th width="30%">Performance Metrics</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Ashir-Ali-Shah/aqi-quality-project"><b>🌫️ Urban Air Quality Sentinel</b></a>
+      <br>
+      <em>Real-time Smog Detection & Health Assistant</em>
+    </td>
+    <td>
+      <ul>
+        <li><b>Hybrid Architecture:</b> Random Forest Regressor combined with a RAG Chatbot (Groq LLaMA 3 + Weaviate).</li>
+        <li><b>Parallelization:</b> Utilized <code>joblib</code> threading backend for concurrent prediction requests.</li>
+        <li><b>Orchestration:</b> Fully Dockerized microservices (FastAPI + React).</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>🚀 <b>~0.1s</b> Inference Latency (Ultra-low latency).</li>
+        <li>🔮 <b>48-Hour</b> Forecasting Window.</li>
+        <li>📉 Successfully correlated <b>Temp vs. Humidity</b> dispersion effects in live validation.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Ashir-Ali-Shah/earthquake-monitoring-project"><b>📉 USGS Earthquake Intelligence</b></a>
+      <br>
+      <em>Seismic Forecasting & Semantic Search</em>
+    </td>
+    <td>
+      <ul>
+        <li><b>Deep Learning:</b> Sequential LSTM Network (128 units) with Dropout regularization.</li>
+        <li><b>Vector Search:</b> FAISS + SentenceTransformers for natural language querying of seismic history.</li>
+        <li><b>Time-Series:</b> Sequence length of 40 historic steps for magnitude prediction.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>🎯 <b>0.3662</b> Mean Absolute Error (MAE) on magnitude predictions.</li>
+        <li>⚡ <b>~239ms</b> Inference Time per sequence.</li>
+        <li>📉 <b>0.0243</b> MSE Validation Loss.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="#"><b>🌌 NASA NEO Analytics</b></a>
+      <br>
+      <em>Planetary Defense & Hazard Prediction</em>
+    </td>
+    <td>
+      <ul>
+        <li><b>Classification Engine:</b> XGBoost Classifier trained on 127,347 historic records.</li>
+        <li><b>Imbalanced Learning:</b> Optimized for Recall to minimize False Negatives on hazardous objects.</li>
+        <li><b>Feature Engineering:</b> Identified Absolute Magnitude (0.70 score) as the primary hazard indicator.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>🎯 <b>94.18%</b> Overall Accuracy.</li>
+        <li>🔍 <b>0.74 Precision</b> on Hazardous class identification.</li>
+        <li>📊 Processed <b>25,470</b> test samples in validation.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashir-ali-shah&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ashir-ali-shah" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashir-ali-shah&theme=tokyonight" alt="ashir-ali-shah" />
+</p>
