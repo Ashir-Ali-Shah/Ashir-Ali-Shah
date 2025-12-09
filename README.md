@@ -65,7 +65,7 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/Ashir-Ali-Shah/aqi-quality-project"><b>🌫️ Urban Air Quality Sentinel</b></a>
+      <a href="https://github.com/Ashir-Ali-Shah/aqi-quality-prediction/"><b>🌫️ Urban Air Quality Sentinel</b></a>
       <br>
       <em>Real-time Smog Detection & Health Assistant</em>
     </td>
