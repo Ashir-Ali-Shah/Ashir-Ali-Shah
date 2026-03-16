@@ -24,13 +24,15 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashir-Ali-Shah&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <!-- Fixed with cache + exact username for instant loading -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashir-Ali-Shah&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashir-Ali-Shah&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashir-Ali-Shah&layout=compact&theme=radical&hide_border=true&langs_count=10&cache_seconds=1800" alt="Top Languages" />
   
   <br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashir-Ali-Shah&theme=radical&hide_border=true" alt="GitHub Streak" />
+  
+  <!-- Streak stats fixed with same theme + cache -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashir-Ali-Shah&theme=radical&hide_border=true&cache_seconds=1800" alt="GitHub Streak" />
 </div>
 
 ---
