@@ -1,139 +1,84 @@
-<h1 align="center">Hi 👋, I'm Ashir Ali Shah</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&width=700&lines=Full-Stack+AI+Engineer;Production+ML+Specialist;Building+Scalable+RAG+%26+Agentic+Systems" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <strong>Engineer. Builder. Systems Thinker.</strong><br>
-  <em>Crafting AI-powered full-stack systems that transform ideas into scalable, reliable, and production-ready solutions.</em>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ashir-Ali-Shah&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
-  <img src="https://img.shields.io/github/followers/Ashir-Ali-Shah?label=Followers&style=flat&color=brightgreen" alt="followers" />
-</p>
-
 <div align="center">
-  <a href="https://twitter.com/hailashirali" target="_blank"><img src="https://img.shields.io/twitter/follow/hailashirali?logo=twitter&style=for-the-badge&color=1DA1F2" alt="Twitter" /></a>
-  <a href="https://linkedin.com/in/ashir-ali-shah" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/Ashir-Ali-Shah" target="_blank"><img src="https://img.shields.io/github/followers/Ashir-Ali-Shah?logo=github&style=for-the-badge&color=181717" alt="GitHub" /></a>
-  <a href="mailto:ashiralishah2k3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://capsule-render.vercel.app/render?type=slice&color=00BFFF&height=180&section=header&text=ASHIR%20ALI%20SHAH&fontSize=75&fontAlignY=35&animation=twinkling" />
+
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=500&color=00BFFF&center=true&vCenter=true&width=600&lines=APPLIED+AI+ENGINEER;SCALABLE+SYSTEMS+ARCHITECT;AGENTIC+WORKFLOW+SPECIALIST" alt="Typing SVG" />
+  </p>
+
+  <code><strong>Status:</strong> Building scalable RAG</code> • <code><strong>Base:</strong> Islamabad, PK</code> • <code><strong>IELTS:</strong> 8.0/9.0</code>
+
+  <br/>
+
+  <div align="center">
+    <a href="https://linkedin.com/in/ashir-ali-shah" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=Linkedin&logoColor=00BFFF" /></a>
+    <a href="mailto:ashiralishah2k3@gmail.com"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=Gmail&logoColor=00BFFF" /></a>
+    <a href="https://github.com/Ashir-Ali-Shah" target="_blank"><img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=Github&logoColor=00BFFF" /></a>
+    <a href="https://twitter.com/hailashirali" target="_blank"><img src="https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=Twitter&logoColor=00BFFF" /></a>
+  </div>
 </div>
+
+<br />
 
 ---
 
-### 📊 GitHub Ecosystem & Performance
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashir-Ali-Shah&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true" width="48%" alt="Ashir's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashir-Ali-Shah&layout=compact&theme=radical&hide_border=true&langs_count=10" width="48%" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashir-Ali-Shah&theme=radical&hide_border=true" width="97%" alt="GitHub Streak" />
-</div>
-
----
-
-### 🔭 Current Focus
-- Productionizing **RAG pipelines** and **LSTM time-series forecasting models**
-- Exploring **Agentic AI workflows** (LangGraph), **advanced vector search** (Weaviate/FAISS), and **Big Data** processing with PySpark
-
-### 💡 Specialization
-**End-to-end ML/AI systems:** Data Ingestion → Feature Engineering → Model Training (PyTorch / XGBoost / TensorFlow) → FastAPI Model Serving → React Dashboards → Dockerized Deployment
-
-### 🧠 Core Competencies
-* **LLM Ops:** RAG integration, LangGraph agent orchestration, Vector DBs (**FAISS, Weaviate**)
-* **Deep Learning:** LSTM, Transformers, PyTorch, TensorFlow
-* **Production MLOps:** Docker, CI/CD, Inference optimization, Redis caching
-* **Data Science:** Scikit-learn, XGBoost, PySpark, Pandas
-
-### ⚙️ Tech Stack
-
-**Backend & AI** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-00BFFF?style=for-the-badge&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-EB981D?style=for-the-badge&logo=xgboost&logoColor=white)
-
-**Infrastructure & Data** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Weaviate](https://img.shields.io/badge/Weaviate-FA3C6E?style=for-the-badge&logo=weaviate&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-
-**Frontend** ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
----
-
-### 🚀 Featured Production Projects
-<table align="center">
+### ⚡ Intelligence Kernel
+<table align="center" style="border: none; border-collapse: collapse;">
   <tr>
-    <th width="30%">Project</th>
-    <th width="40%">Key Architecture & Techniques</th>
-    <th width="30%">Performance Highlights</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Ashir-Ali-Shah/aqi-quality-prediction"><b>🌫️ Urban Air Quality Sentinel</b></a><br>
-      <em>Real-time PM2.5 Forecasting + RAG Health Assistant</em>
+    <td width="50%" valign="top">
+      <ins><strong>Systems & AI Logic</strong></ins><br/>
+      • <b>Inference:</b> PyTorch, TensorFlow, XGBoost<br/>
+      • <b>Orchestration:</b> LangGraph, LangChain, LlamaIndex<br/>
+      • <b>Vector Search:</b> Weaviate, FAISS, Pinecone<br/>
+      • <b>Infrastructure:</b> Docker, FastAPI, MLOps, Redis
     </td>
-    <td>
-      <ul>
-        <li>Hybrid ML + LLM: Random Forest + Groq LLaMA 3 RAG</li>
-        <li>Agent orchestration with LangGraph + LlamaIndex</li>
-        <li>Dockerized microservices (FastAPI + React)</li>
-      </ul>
-    </td>
-    <td align="left">
-      <ul>
-        <li>~0.1s inference latency</li>
-        <li>48-hour forecasting horizon</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Ashir-Ali-Shah/earthquake-monitoring-project"><b>📉 USGS Earthquake Intelligence</b></a><br>
-      <em>Semantic Search + Magnitude Forecasting</em>
-    </td>
-    <td>
-      <ul>
-        <li>PyTorch LSTM (128 units, sequence length 40)</li>
-        <li>FAISS vector search for NL queries</li>
-        <li>FastAPI model serving</li>
-      </ul>
-    </td>
-    <td align="left">
-      <ul>
-        <li>MAE 0.3662 on magnitude prediction</li>
-        <li>~239ms inference per sequence</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Ashir-Ali-Shah/nasa-neo-analytics"><b>🌌 NASA NEO Analytics</b></a><br>
-      <em>Asteroid Hazard Classification & Agentic Analysis</em>
-    </td>
-    <td>
-      <ul>
-        <li>XGBoost Classifier on 127k+ records</li>
-        <li>LangGraph "Robot Scientist" agent (ReAct + APIs)</li>
-        <li>Automated MLOps retraining</li>
-      </ul>
-    </td>
-    <td align="left">
-      <ul>
-        <li>94.18% accuracy</li>
-        <li>0.74 Precision on hazardous class</li>
-      </ul>
+    <td width="50%" valign="top">
+      <ins><strong>Active R&D</strong></ins><br/>
+      • <b>Agentic AI:</b> Autonomous ReAct & Plan-and-Execute loops.<br/>
+      • <b>Big Data:</b> Large-scale processing with PySpark.<br/>
+      • <b>Forecasting:</b> LSTM-based time-series anomaly detection.<br/>
+      • <b>Quantum ML:</b> Hybrid classical-quantum research.
     </td>
   </tr>
 </table>
 
 ---
 
-### 📫 Reach Out
-**ashiralishah2k3@gmail.com** | Open to collaborations on production AI projects!
+### 📊 Network Metrics
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Ashir-Ali-Shah&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff" width="450px" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashir-Ali-Shah&layout=compact&theme=transparent&hide_border=true&title_color=00BFFF&text_color=ffffff" width="300px" />
+      </td>
+    </tr>
+  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashir-Ali-Shah&theme=transparent&hide_border=true&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff" width="100%" />
+</div>
 
-### 🌱 2026 Goals
-- **Remote / Hybrid AI Engineer** roles focused on LLM/RAG/Agentic systems.
-- Scalable inference pipelines and real-time AI application deployment.
-- Contributing to the **LangChain/LangGraph** ecosystem.
+---
+
+### 🚀 Production Showcases
+
+| Project | Architecture | Performance |
+| :--- | :--- | :--- |
+| **[Urban Air Quality Sentinel](https://github.com/Ashir-Ali-Shah/aqi-quality-prediction)** | `FastAPI` • `Weaviate` • `LLaMA 3` | ~0.1s Inference Latency |
+| **[USGS Earthquake Intelligence](https://github.com/Ashir-Ali-Shah/earthquake-monitoring-project)** | `PyTorch` • `LSTM` • `FAISS` | MAE 0.3662 Validation Loss |
+| **[NASA NEO Analytics](https://github.com/Ashir-Ali-Shah/nasa-neo-analytics)** | `XGBoost` • `LangGraph` • `Redis` | 94.18% Classification Accuracy |
+
+---
+
+### 🌱 2026 Objectives
+I am seeking **Applied AI Engineer** roles to deploy production-grade agentic systems. If you're looking for an engineer who treats AI as a system, not just a model, let's connect.
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent&quote=The%20advance%20of%20technology%20is%20based%20on%20making%20it%20fit%20in%20so%20that%20you%20don't%20even%20notice%20it.&text_color=00BFFF" width="80%" />
+</div>
+
+<br />
 
 <p align="center">
-  <em>Always happy to connect on AI, production ML, Big Data pipelines, or open-source collaborations 🚀</em>
+  <img src="https://komarev.com/ghpvc/?username=Ashir-Ali-Shah&label=SATELLITE%20UPLINK&color=00BFFF&style=flat-square" />
 </p>
