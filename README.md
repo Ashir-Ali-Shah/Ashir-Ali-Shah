@@ -22,17 +22,19 @@
 
 ---
 
-### 📊 GitHub Stats
+---
+
+### 📊 GitHub Metrics & Achievements
 <div align="center">
-  <!-- Fixed with cache + exact username for instant loading -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashir-Ali-Shah&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashir-Ali-Shah&layout=compact&theme=radical&hide_border=true&langs_count=10&cache_seconds=1800" alt="Top Languages" />
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashir-Ali-Shah&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true" alt="Ashir's GitHub Stats" />
+
   <br/>
-  
-  <!-- Streak stats fixed with same theme + cache -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashir-Ali-Shah&theme=radical&hide_border=true&cache_seconds=1800" alt="GitHub Streak" />
+
+  <img src="https://github-profile-trophy.vercel.app/?username=Ashir-Ali-Shah&theme=radical&no-bg=true&margin-w=15&column=4" alt="GitHub Trophies" />
+
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashir-Ali-Shah&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
 </div>
 
 ---
