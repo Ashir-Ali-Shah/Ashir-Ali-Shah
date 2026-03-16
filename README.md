@@ -76,10 +76,8 @@
 - **Performance:** 94.18% accuracy in hazard detection.
 
 ---
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
-</p>
+“The function of good software is to make the complex appear to be simple.”
+— Grady Booch
 
 <p align="center">
   <sub>Built with 💻 and ☕ </sub>
