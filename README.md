@@ -54,13 +54,6 @@
 
 ---
 
-<p align="center">
-  <i>"Simplicity is the final achievement. After one has played a vast quantity of notes and more notes, it is simplicity that emerges as the crowning reward of art."</i> — <b>Frédéric Chopin</b>
-</p>
-
-<p align="center">
-  <sub>Systems Engineer • Crafting Minimalist Solutions</sub>
-</p>
 
 ### 🚀 Featured Production Projects
 
