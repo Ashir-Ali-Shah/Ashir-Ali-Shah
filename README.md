@@ -89,5 +89,5 @@
 </p>
 
 <p align="center">
-  <sub>Built with 💻 and ☕ in Islamabad.</sub>
+  <sub>Built with 💻 and ☕ </sub>
 </p>
