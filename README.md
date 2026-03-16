@@ -38,15 +38,29 @@
 ---
 
 ### 📊 GitHub Ecosystem
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashir-Ali-Shah&show_icons=true&theme=transparent&rank_icon=github&hide_border=true&title_color=00BFFF&text_color=ffffff&icon_color=00BFFF" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashir-Ali-Shah&layout=compact&theme=transparent&hide_border=true&title_color=00BFFF&text_color=ffffff" width="43%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashir-Ali-Shah&theme=transparent&hide_border=true&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakNum=ffffff&sideLabels=ffffff" width="92%" />
-</p>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Ashir-Ali-Shah&show_icons=true&theme=transparent&hide_border=true&title_color=00BFFF&text_color=ffffff&icon_color=00BFFF&rank_icon=github&hide_rank=false" width="350px" alt="Stats" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashir-Ali-Shah&layout=compact&theme=transparent&hide_border=true&title_color=00BFFF&text_color=ffffff" width="300px" alt="Languages" />
+      </td>
+    </tr>
+  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashir-Ali-Shah&theme=transparent&hide_border=true&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakNum=ffffff&sideLabels=ffffff" width="660px" alt="Streak" />
+</div>
 
 ---
+
+<p align="center">
+  <i>"Simplicity is the final achievement. After one has played a vast quantity of notes and more notes, it is simplicity that emerges as the crowning reward of art."</i> — <b>Frédéric Chopin</b>
+</p>
+
+<p align="center">
+  <sub>Systems Engineer • Crafting Minimalist Solutions</sub>
+</p>
 
 ### 🚀 Featured Production Projects
 
