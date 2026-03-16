@@ -1,53 +1,53 @@
 <h1 align="center">Hi 👋, I'm Ashir Ali Shah</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&width=700&lines=Full-Stack+AI+Engineer;Production+ML+Specialist;Building+Scalable+RAG+%26+Agentic+Systems" alt="typing-svg" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=2800&pause=900&color=00BFFF&center=true&vCenter=true&width=780&lines=Full-Stack+AI+Engineer;Production+ML+Specialist;RAG+%26+Agentic+Systems+Expert" alt="typing-svg" />
 </p>
 
 <p align="center">
-  <em>Turning complex AI models into production-ready systems — RAG pipelines, LangGraph agents, PyTorch deep learning, FastAPI inference, and Dockerized deployments.</em>
+  <em>Building production-grade AI systems that turn cutting-edge models into scalable, real-world applications — RAG pipelines, LangGraph agents, PyTorch deep learning, FastAPI inference, and Docker deployments.</em>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashir-ali-shah&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
-  <img src="https://img.shields.io/github/followers/ashir-ali-shah?label=Followers&style=flat&color=brightgreen" alt="followers" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ashir-ali-shah&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="views" />
+  <img src="https://img.shields.io/github/followers/ashir-ali-shah?label=Followers&style=for-the-badge&color=brightgreen" alt="followers" />
+</div>
 
 <div align="center">
   <a href="https://twitter.com/hailashirali" target="_blank"><img src="https://img.shields.io/twitter/follow/hailashirali?logo=twitter&style=for-the-badge&color=1DA1F2" alt="Twitter" /></a>
   <a href="https://linkedin.com/in/ashir-ali-shah" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/Ashir-Ali-Shah" target="_blank"><img src="https://img.shields.io/github/followers/ashir-ali-shah?logo=github&style=for-the-badge&color=181717" alt="GitHub" /></a>
+  <a href="https://github.com/Ashir-Ali-Shah" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="mailto:ashiralishah2k3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
 ---
 
-### 🔭 What I'm Working On
-- Productionizing **RAG pipelines** and **LSTM forecasting models** for real-world deployment
-- Building **AI agent orchestration** systems with LangGraph
-- Exploring **advanced vector search**, **MLOps automation**, and **Big Data** pipelines
+### 🔭 Currently Building
+- Production-ready **RAG pipelines** and **LSTM forecasting models**  
+- **AI Agent orchestration** systems with LangGraph & ReAct  
+- Advanced **vector search**, **MLOps automation**, and real-time inference platforms  
 
-### 💡 Specialization
-**End-to-end AI Systems**:  
-Data Ingestion → Feature Engineering → Model Training (PyTorch / XGBoost) → FastAPI Model Serving → React Dashboards → Dockerized Production Deployment
+### 💡 What I Specialize In
+**End-to-End Production AI Systems**  
+Data Ingestion → Feature Engineering → Model Training (PyTorch / XGBoost) → FastAPI Model Serving → React Dashboards → Dockerized Deployment  
 
 ### 🧠 Core Skills & Interests
-- **Retrieval-Augmented Generation (RAG)** & **Large Language Models (LLM)**
-- **Agentic AI Workflows** (LangGraph, ReAct, LlamaIndex)
-- **Deep Learning** (PyTorch LSTM, Transformers)
-- **Vector Databases** (Weaviate, FAISS)
-- **Production MLOps** (Docker, FastAPI inference, CI/CD, monitoring)
-- **Predictive Modeling** (XGBoost, Scikit-learn, time-series forecasting)
+- Retrieval-Augmented Generation (**RAG**) & Large Language Models (**LLM**)  
+- Agentic AI Workflows (**LangGraph**, **LlamaIndex**, ReAct)  
+- Deep Learning (**PyTorch** LSTM & Transformers)  
+- Vector Databases (**Weaviate**, **FAISS**)  
+- Production MLOps (**Docker**, **FastAPI** inference, CI/CD, monitoring)  
+- Predictive Modeling (**XGBoost**, **Scikit-learn**, time-series forecasting)  
 
 ---
 
-### 🌱 What I'm Looking For (Open to Opportunities)
-- **Remote / Hybrid AI Engineer** or **ML Engineer** roles (focus on RAG, agents, production inference)
-- Building scalable LLM-powered applications and MLOps platforms
-- Collaborations on open-source AI tools (LangChain/LangGraph ecosystem)
-- Interesting projects involving real-time AI, forecasting, or agentic systems
+### 🌱 Open to Opportunities (2026)
+- **Remote / Hybrid AI Engineer** or **ML Engineer** roles focused on RAG, agents, and production inference  
+- Building scalable LLM-powered applications and MLOps platforms  
+- Open-source collaborations in the LangChain / LangGraph ecosystem  
+- Exciting projects involving real-time AI, forecasting, or agentic systems  
 
-**Always open to connect** — whether you're hiring, have a cool project, or just want to chat about production AI! Drop me an email or DM.
+**Feel free to reach out** — I’m always happy to discuss production AI, share ideas, or explore collaborations!
 
 ---
 
@@ -151,6 +151,11 @@ Data Ingestion → Feature Engineering → Model Training (PyTorch / XGBoost) �
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashir-ali-shah&theme=tokyonight&hide_border=true&border_radius=12" alt="streak" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashir-ali-shah&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashir-ali-shah&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="top-langs" />
+</div>
+
 <p align="center">
-  <em>Thank you for visiting! Always excited to collaborate on production AI, RAG systems, or agentic workflows 🚀</em>
+  <em>Thank you for stopping by! Always open to exciting AI projects, collaborations, or production ML discussions 🚀</em>
 </p>
