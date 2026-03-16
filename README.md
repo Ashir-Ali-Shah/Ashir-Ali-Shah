@@ -4,7 +4,8 @@
 </p>
 
 <p align="center">
-  <em>Turning complex AI models into production-ready systems — RAG pipelines, LangGraph agents, PyTorch deep learning, FastAPI inference, Dockerized deployments, and scalable MLOps workflows.</em>
+  <strong>Engineer. Builder. Systems Thinker.</strong><br>
+  <em>Crafting AI-powered full-stack systems that transform ideas into scalable, reliable, and production-ready solutions.</em>
 </p>
 
 <p align="center">
@@ -17,6 +18,14 @@
   <a href="https://linkedin.com/in/ashir-ali-shah" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/Ashir-Ali-Shah" target="_blank"><img src="https://img.shields.io/github/followers/Ashir-Ali-Shah?logo=github&style=for-the-badge&color=181717" alt="GitHub" /></a>
   <a href="mailto:ashiralishah2k3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</div>
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashir-Ali-Shah&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashir-Ali-Shah&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
 </div>
 
 ---
@@ -37,6 +46,44 @@ End-to-end ML/AI systems:
 - Predictive modeling & statistical analysis (Scikit-learn, XGBoost, Joblib)
 - Big Data & Data Processing: PySpark, Pandas, NumPy
 
+### ⚙️ Tech Stack
+
+**Backend & Architecture**  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+
+**AI & LLM Systems**  
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> 
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> 
+<img src="https://img.shields.io/badge/LangChain-00BFFF?style=for-the-badge&logoColor=white" /> 
+<img src="https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge&logoColor=white" /> 
+<img src="https://img.shields.io/badge/LlamaIndex-00BFFF?style=for-the-badge&logoColor=white" /> 
+<img src="https://img.shields.io/badge/XGBoost-EB981D?style=for-the-badge&logo=xgboost&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+
+**DevOps & MLOps**  
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> 
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+
+**Databases & Vector Stores**  
+<img src="https://img.shields.io/badge/Weaviate-FA3C6E?style=for-the-badge&logo=weaviate&logoColor=white" /> 
+<img src="https://img.shields.io/badge/FAISS-005571?style=for-the-badge&logo=meta&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+
+**Frontend**  
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+
+**Data Processing & Big Data**  
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> 
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Joblib-4CAF50?style=for-the-badge&logoColor=white" />
+
+---
+
 ### 📫 Reach Out
 **ashiralishah2k3@gmail.com** | Open to collaborations on production AI projects!
 
@@ -47,32 +94,6 @@ End-to-end ML/AI systems:
 - Mentorship or contributions in production ML deployments
 
 Feel free to reach out if you're hiring, have interesting projects, or want to discuss agentic AI / RAG in production!
-
----
-
-### 🛠 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-00BFFF?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Weaviate-FA3C6E?style=for-the-badge&logo=weaviate&logoColor=white" />
-  <img src="https://img.shields.io/badge/FAISS-005571?style=for-the-badge&logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-EB981D?style=for-the-badge&logo=xgboost&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Joblib-4CAF50?style=for-the-badge&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
 
 ---
 
