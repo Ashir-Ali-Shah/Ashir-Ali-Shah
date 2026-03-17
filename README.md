@@ -38,7 +38,7 @@
 
 ---
 
-### 📊 Engineering Impact & Contributions
+### 📊 Engineering Analytics & Profile Grade
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ashir-Ali-Shah&theme=tokyonight&no-bg=true&margin-w=15&column=5" alt="Trophies" width="100%" />
@@ -48,7 +48,7 @@
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Ashir-Ali-Shah&show_icons=true&theme=transparent&hide_border=true&title_color=00BFFF&text_color=ffffff&icon_color=00BFFF&rank_icon=github&hide_rank=false" width="400px" alt="General Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Ashir-Ali-Shah&show_icons=true&theme=transparent&hide_border=true&title_color=00BFFF&text_color=ffffff&icon_color=00BFFF&rank_icon=github&hide_rank=false" width="400px" alt="Profile Grade and Stats" />
       </td>
       <td width="50%" align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashir-Ali-Shah&layout=compact&theme=transparent&hide_border=true&title_color=00BFFF&text_color=ffffff" width="300px" alt="Top Languages" />
@@ -62,25 +62,22 @@
 ---
 
 ### 🚀 Featured Production Projects
-*Below are my top-tier engineering projects. Click the titles to explore the code!*
+*Click titles to view repository*
 
 #### 🌫️ [Urban Air Quality Sentinel](https://github.com/Ashir-Ali-Shah/aqi-quality-prediction)
-> **Real-time PM2.5 Forecasting + RAG Health Assistant**
-- **Core Architecture:** Hybrid ML (Random Forest) + LLaMA 3 RAG via Groq.
-- **Key Features:** LangGraph, FastAPI, React, Docker.
-- **Impact:** Achieved ~0.1s inference latency with a 48-hour forecasting horizon.
+- **Architecture:** Hybrid ML (Random Forest) + LLaMA 3 RAG via Groq.
+- **Tech Stack:** LangGraph, FastAPI, React, Docker.
+- **Outcome:** Optimized for ~0.1s inference latency with 48-hour forecasting.
 
 #### 📉 [USGS Earthquake Intelligence](https://github.com/Ashir-Ali-Shah/earthquake-monitoring-project)
-> **Semantic Search + Magnitude Forecasting**
-- **Core Architecture:** PyTorch LSTM (128 units) for complex time-series sequences.
-- **Key Features:** FAISS vector search for natural language geological queries.
-- **Impact:** Reduced MAE to 0.3662 on magnitude predictions.
+- **Architecture:** PyTorch LSTM (128 units) for time-series forecasting.
+- **Tech Stack:** FAISS vector search for semantic geological data retrieval.
+- **Outcome:** Maintained an MAE of 0.3662 on real-world seismic data.
 
 #### 🌌 [NASA NEO Analytics](https://github.com/Ashir-Ali-Shah/nasa-neo-analytics)
-> **Asteroid Hazard Classification & Agentic Analysis**
-- **Core Architecture:** XGBoost Classifier trained on 127k+ records.
-- **Key Features:** LangGraph "Robot Scientist" agent using ReAct logic.
-- **Impact:** 94.18% accuracy in hazard detection with automated reporting.
+- **Architecture:** XGBoost Classifier (127k+ records) + ReAct Agent logic.
+- **Tech Stack:** LangGraph "Robot Scientist" Agent for automated analysis.
+- **Outcome:** 94.18% hazard detection accuracy.
 
 ---
 
@@ -90,5 +87,5 @@
 </p>
 
 <p align="center">
-  <sub>Built with 💻 and ☕ by <strong>Ashir Ali Shah</strong></sub>
+  <sub>Generated with 🤖 for <strong>Ashir Ali Shah</strong></sub>
 </p>
