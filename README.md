@@ -43,9 +43,6 @@
 ### 📊 GitHub Analytics & Performance Grade
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ashir-Ali-Shah&theme=tokyonight&no-bg=true&margin-w=15&column=5" alt="Trophies" width="100%" />
-  
-  <br/>
 
   <img src="https://github-readme-stats.vercel.app/api?username=Ashir-Ali-Shah&show_icons=true&theme=tokyonight&hide_border=true&title_color=00BFFF&text_color=ffffff&icon_color=00BFFF&include_all_commits=true&count_private=true" width="48%" alt="Ashir's GitHub Stats" />
   
