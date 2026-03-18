@@ -75,7 +75,6 @@
   
   <br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashir-Ali-Shah&theme=tokyonight&hide_border=true&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakNum=ffffff&sideLabels=ffffff" width="94%" alt="Streak Stats" />
 </div>
 
 ---
