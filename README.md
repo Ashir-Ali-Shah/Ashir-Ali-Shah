@@ -23,7 +23,6 @@
 * 🔭 **Current Focus:** Architecting Agentic AI workflows with **LangGraph** and optimizing **RAG pipelines**.
 * 🧠 **Specialization:** End-to-end ML Systems—from Data Ingestion to Dockerized FastAPI deployments.
 * 🌱 **2026 Goal:** Scaling real-time AI inference and contributing to the Agentic AI ecosystem.
-* 💬 **Ask me about:** LLM Orchestration, Vector Databases, and Productionizing Python.
 
 ---
 
@@ -31,10 +30,9 @@
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **AI & Core ML** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) |
-| **Generative AI** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white) `LangGraph` `Agentic RAG` `LlamaIndex` `Prompt Engineering` |
-| **Data & Vector** | ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) `Weaviate` `Pinecone` `FAISS` |
-| **Cloud & DevOps** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) |
+| **AI & Core ML** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) |
+| **Generative AI** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white) `LangGraph` `Agentic RAG` `LlamaIndex` |
+| **Cloud & DevOps** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) |
 
 ---
 
@@ -45,39 +43,29 @@
   
   <br/>
 
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Ashir-Ali-Shah&show_icons=true&theme=transparent&hide_border=true&title_color=00BFFF&text_color=ffffff&icon_color=00BFFF&rank_icon=github&hide_rank=false" width="400px" alt="Profile Grade and Stats" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashir-Ali-Shah&layout=compact&theme=transparent&hide_border=true&title_color=00BFFF&text_color=ffffff" width="300px" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashir-Ali-Shah&show_icons=true&theme=transparent&hide_border=true&title_color=00BFFF&text_color=ffffff&icon_color=00BFFF&rank_icon=github&include_all_commits=true" width="48%" alt="Stats Card" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashir-Ali-Shah&layout=compact&theme=transparent&hide_border=true&title_color=00BFFF&text_color=ffffff" width="45%" alt="Languages Card" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashir-Ali-Shah&theme=transparent&hide_border=true&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakNum=ffffff&sideLabels=ffffff&date_format=M%20j%5B%2C%20Y%5D" width="85%" alt="Streak and Contributions" />
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashir-Ali-Shah&theme=transparent&hide_border=true&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakNum=ffffff&sideLabels=ffffff" width="94%" alt="Streak Stats" />
 </div>
 
 ---
 
 ### 🚀 Featured Production Projects
-*Click titles to view repository*
 
 #### 🌫️ [Urban Air Quality Sentinel](https://github.com/Ashir-Ali-Shah/aqi-quality-prediction)
 - **Architecture:** Hybrid ML (Random Forest) + LLaMA 3 RAG via Groq.
 - **Tech Stack:** LangGraph, FastAPI, React, Docker.
-- **Outcome:** Optimized for ~0.1s inference latency with 48-hour forecasting.
 
 #### 📉 [USGS Earthquake Intelligence](https://github.com/Ashir-Ali-Shah/earthquake-monitoring-project)
-- **Architecture:** PyTorch LSTM (128 units) for time-series forecasting.
-- **Tech Stack:** FAISS vector search for semantic geological data retrieval.
-- **Outcome:** Maintained an MAE of 0.3662 on real-world seismic data.
+- **Architecture:** PyTorch LSTM for time-series forecasting.
+- **Tech Stack:** FAISS vector search for semantic retrieval.
 
 #### 🌌 [NASA NEO Analytics](https://github.com/Ashir-Ali-Shah/nasa-neo-analytics)
-- **Architecture:** XGBoost Classifier (127k+ records) + ReAct Agent logic.
-- **Tech Stack:** LangGraph "Robot Scientist" Agent for automated analysis.
-- **Outcome:** 94.18% hazard detection accuracy.
+- **Architecture:** XGBoost Classifier + ReAct Agent logic.
+- **Tech Stack:** LangGraph "Robot Scientist" Agent.
 
 ---
 
@@ -87,5 +75,5 @@
 </p>
 
 <p align="center">
-  <sub>Generated with 🤖 for <strong>Ashir Ali Shah</strong></sub>
+  <sub>Built with 💻 and ☕ by <strong>Ashir Ali Shah</strong></sub>
 </p>
