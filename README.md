@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ashir Ali Shah</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full-Stack+AI+Engineer;Production+ML+Specialist;Open+Source+Contributor;Building+Scalable+Agentic+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=AI+Engineer+@JadeedX;Full-Stack+AI+Engineer;Building+Scalable+Agentic+Systems;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <strong>Engineer • Builder • Systems Thinker</strong><br>
+  <strong>Engineer • Builder • Freelancer</strong><br>
   <samp>Architecting production-ready AI systems that scale beyond the prompt.</samp>
 </p>
 
@@ -21,11 +21,12 @@
 
 ---
 
-### ⚡ Quick Overview
+### ⚡ Professional Snapshot
 
-* 🔭 **Current Focus:** Architecting multi-agent workflows with **LangGraph** and optimizing high-throughput **RAG pipelines**.
-* 🧠 **Specialization:** End-to-end ML Systems—Data Ingestion, Vector DB orchestration, and Dockerized FastAPI deployments.
+* 🔭 **Current Role:** AI Engineer at **JadeedX**, architecting multi-agent workflows and high-throughput RAG pipelines.
+* 💼 **Freelance Expertise:** Successfully delivered solutions for **45+ global clients** with a consistent **4.8+ rating**.
 * 🤝 **Open Source:** Active contributor to the **LlamaIndex** ecosystem.
+* 🧠 **Core Focus:** End-to-end ML Systems—from Data Ingestion to Dockerized FastAPI deployments.
 
 ---
 
@@ -59,24 +60,23 @@
       </td>
     </tr>
   </table>
-
 </div>
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Engineering Projects
 
 #### 🌌 [NASA NEO Analytics](https://github.com/Ashir-Ali-Shah/nasa-neo-analytics)
 - **Concept:** Intelligent asteroid monitoring via **ReAct Agent** logic.
-- **Key Tech:** XGBoost + LangGraph "Robot Scientist."
+- **Innovation:** Integrated **XGBoost** with **LangGraph** for automated data interpretation.
 
 #### 🌫️ [Urban Air Quality Sentinel](https://github.com/Ashir-Ali-Shah/aqi-quality-prediction)
 - **Concept:** Real-time AQI forecasting + semantic health advisory.
-- **Key Tech:** Random Forest + LLaMA 3 RAG (Groq).
+- **Innovation:** Hybrid architecture (Random Forest + LLaMA 3 RAG).
 
 #### 📉 [USGS Earthquake Intelligence](https://github.com/Ashir-Ali-Shah/earthquake-monitoring-project)
 - **Concept:** Time-series seismic forecasting and semantic retrieval.
-- **Key Tech:** PyTorch LSTM + FAISS vector search.
+- **Innovation:** PyTorch LSTM + FAISS vector search.
 
 ---
 
