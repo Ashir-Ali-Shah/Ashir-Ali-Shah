@@ -40,38 +40,37 @@
 
 ---
 
-### 🚀 Featured Production Projects
-
-#### 🌌 [NASA NEO Analytics](https://github.com/Ashir-Ali-Shah/nasa-neo-analytics)
-- **Concept:** Intelligent asteroid monitoring using a **ReAct Agent** logic.
-- **Innovation:** Integrated **XGBoost** for classification with a **LangGraph "Robot Scientist"** for automated data interpretation.
-- **Stack:** FastAPI, Redis, Weaviate, LangGraph.
-
-#### 🌫️ [Urban Air Quality Sentinel](https://github.com/Ashir-Ali-Shah/aqi-quality-prediction)
-- **Concept:** Real-time AQI forecasting paired with semantic health advisory.
-- **Innovation:** Hybrid architecture combining **Random Forest** for regression and **LLaMA 3 RAG** for context-aware recommendations.
-- **Stack:** Docker, React, Groq, LangGraph.
-
-#### 📉 [USGS Earthquake Intelligence](https://github.com/Ashir-Ali-Shah/earthquake-monitoring-project)
-- **Concept:** Time-series seismic activity forecasting and retrieval.
-- **Innovation:** Utilized **PyTorch LSTM** for forecasting and **FAISS** for ultra-fast semantic search across historical events.
-
----
-
-### 📊 Engineering Metrics
+### 📊 GitHub Analytics & Performance Grade
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ashir-Ali-Shah&theme=tokyonight&no-bg=true&margin-w=15&column=5" alt="Trophies" width="100%" />
   
   <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashir-Ali-Shah&show_icons=true&theme=transparent&hide_border=true&title_color=00BFFF&text_color=ffffff&icon_color=00BFFF&rank_icon=github&include_all_commits=true" width="48%" alt="Stats Card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashir-Ali-Shah&layout=compact&theme=transparent&hide_border=true&title_color=00BFFF&text_color=ffffff" width="45%" alt="Languages Card" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashir-Ali-Shah&show_icons=true&theme=tokyonight&hide_border=true&title_color=00BFFF&text_color=ffffff&icon_color=00BFFF&include_all_commits=true&count_private=true" width="48%" alt="Ashir's GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashir-Ali-Shah&layout=compact&theme=tokyonight&hide_border=true&title_color=00BFFF&text_color=ffffff" width="45%" alt="Top Languages" />
 
   <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashir-Ali-Shah&theme=transparent&hide_border=true&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakNum=ffffff&sideLabels=ffffff" width="94%" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashir-Ali-Shah&theme=tokyonight&hide_border=true&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakNum=ffffff&sideLabels=ffffff" width="94%" alt="Streak Stats" />
 </div>
+
+---
+
+### 🚀 Featured Production Projects
+
+#### 🌌 [NASA NEO Analytics](https://github.com/Ashir-Ali-Shah/nasa-neo-analytics)
+- **Concept:** Intelligent asteroid monitoring using **ReAct Agent** logic.
+- **Innovation:** Integrated **XGBoost** for classification with a **LangGraph "Robot Scientist"** for automated data interpretation.
+
+#### 🌫️ [Urban Air Quality Sentinel](https://github.com/Ashir-Ali-Shah/aqi-quality-prediction)
+- **Concept:** Real-time AQI forecasting paired with semantic health advisory.
+- **Innovation:** Hybrid architecture combining **Random Forest** regression and **LLaMA 3 RAG** for context-aware recommendations.
+
+#### 📉 [USGS Earthquake Intelligence](https://github.com/Ashir-Ali-Shah/earthquake-monitoring-project)
+- **Concept:** Time-series seismic activity forecasting and semantic retrieval.
+- **Innovation:** Utilized **PyTorch LSTM** for forecasting and **FAISS** for ultra-fast vector search.
 
 ---
 
