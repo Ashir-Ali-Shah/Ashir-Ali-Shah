@@ -43,9 +43,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ashir-Ali-Shah&show_icons=true&theme=tokyonight&hide_border=true&title_color=00BFFF&text_color=ffffff&icon_color=00BFFF&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashir-Ali-Shah&layout=compact&theme=tokyonight&hide_border=true&title_color=00BFFF&text_color=ffffff" width="45%" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashir-Ali-Shah&theme=tokyonight&hide_border=true&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakNum=ffffff&sideLabels=ffffff" width="94%" />
+ 
 </div>
 
 ---
