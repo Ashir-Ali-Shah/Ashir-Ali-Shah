@@ -70,7 +70,6 @@
 ### 📊 Engineering Analytics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ashir-Ali-Shah&theme=tokyonight&no-bg=true&margin-w=15&column=5" alt="Trophies" width="100%" />
 
   <br/>
 
