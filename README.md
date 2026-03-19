@@ -5,89 +5,55 @@
 </p>
 
 <p align="center">
-  <strong>Engineer • Builder • Systems Thinker</strong><br>
-  <samp>Architecting production-ready AI systems that scale beyond the prompt.</samp>
+  <a href="https://linkedin.com/in/ashir-ali-shah"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/hailashirali"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:ashiralishah2k3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Ashir-Ali-Shah&label=Views&color=00BFFF&style=flat-square" />
 </p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/ashir-ali-shah"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/hailashirali"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="mailto:ashiralishah2k3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ashir-Ali-Shah&label=Profile+Views&color=00BFFF&style=flat-square" alt="Views" />
-</div>
 
 ---
 
 ### ⚡ Professional Snapshot
-
-* 🔭 **Current Role:** AI Engineer at **JadeedX**, architecting multi-agent systems and enterprise RAG.
-* 💼 **Freelance Expertise:** Successfully delivered AI solutions for **45+ global clients** (4.8+ Rating).
-* 🤝 **Open Source:** Proud contributor to the **LlamaIndex** ecosystem.
-* 🧠 **Specialization:** End-to-end ML Systems—from Data Ingestion to Dockerized deployments.
+* 🚀 **Current:** AI Engineer at **JadeedX** | 💼 **Freelance:** 45+ Clients (4.8+ ⭐)
+* 🤝 **OSS:** Contributor to **LlamaIndex** ([PR #21063](https://github.com/run-llama/llama_index/pull/21063))
+* 🧠 **Specialization:** Scalable Agentic Workflows & Production MLOps.
 
 ---
 
 ### 🛠️ Technical Arsenal
 
-<div align="center">
-
-| **Category** | **Tools & Technologies** |
-| :--- | :--- |
-| **AI & Core ML** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) |
-| **Generative AI** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=flat-square&logo=llama&logoColor=white) `LangGraph` `Agentic RAG` `Weaviate` `Pinecone` |
-| **Backend & Cloud** | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white) |
-| **Methodologies** | `ReAct Agents` `MLOps` `CI/CD` `Vector ETL` `Microservices` `Semantic Search` |
-
-</div>
-
----
-
-### 🌍 Open Source Contributions
-
-> **[run-llama/llama_index](https://github.com/run-llama/llama_index)**: Improved documentation infrastructure for the LlamaParse ecosystem, enhancing the developer onboarding experience. ([PR #21063](https://github.com/run-llama/llama_index/pull/21063))
+| AI & Core | GenAI & Agents | Cloud & Backend |
+| :--- | :--- | :--- |
+| ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white) | `LangGraph` `Agentic RAG` | ![FastAPI](https://img.shields.io/badge/-FastAPI-005571?style=flat-square&logo=fastapi) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| ![TF](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white) ![Sklearn](https://img.shields.io/badge/-Sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) | `LlamaIndex` `LangChain` | ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![PG](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
 
 ---
 
 ### 🚀 Featured Production Projects
 
-#### 🌌 [NASA NEO Analytics](https://github.com/Ashir-Ali-Shah/nasa-neo-analytics)
-*Intelligent asteroid monitoring via ReAct Agent logic.*
-> **Innovation:** Integrated **XGBoost** with a **LangGraph "Robot Scientist"** agent to automate complex data interpretation and threat assessment.
-
-#### 🌫️ [Urban Air Quality Sentinel](https://github.com/Ashir-Ali-Shah/aqi-quality-prediction)
-*Real-time AQI forecasting paired with semantic health advisory.*
-> **Innovation:** Orchestrated a hybrid architecture using **Random Forest** for numerical precision and **LLaMA 3 RAG** for personalized health insights.
-
-#### 📉 [USGS Earthquake Intelligence](https://github.com/Ashir-Ali-Shah/earthquake-monitoring-project)
-*Time-series seismic activity forecasting and semantic retrieval.*
-> **Innovation:** Implemented **PyTorch LSTM** for predictive modeling and **FAISS** for millisecond-latency vector search across historical seismic records.
+| Project | Core Innovation |
+| :--- | :--- |
+| 🌌 **[NASA NEO](https://github.com/Ashir-Ali-Shah/nasa-neo-analytics)** | **XGBoost + LangGraph** ReAct Agent for automated asteroid threat assessment. |
+| 🌫️ **[Urban AQI](https://github.com/Ashir-Ali-Shah/aqi-quality-prediction)** | Hybrid architecture: **Random Forest** regression paired with **LLaMA 3 RAG** advisory. |
+| 📉 **[USGS Seismic](https://github.com/Ashir-Ali-Shah/earthquake-monitoring-project)** | **PyTorch LSTM** time-series forecasting with **FAISS** semantic retrieval. |
 
 ---
 
 ### 📊 Engineering Analytics
 
 <div align="center">
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashir-Ali-Shah&show_icons=true&theme=tokyonight&hide_border=true&title_color=00BFFF&text_color=ffffff&icon_color=00BFFF&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashir-Ali-Shah&layout=compact&theme=tokyonight&hide_border=true&title_color=00BFFF&text_color=ffffff" width="45%" />
   <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashir-Ali-Shah&show_icons=true&theme=tokyonight&hide_border=true&title_color=00BFFF&text_color=ffffff&icon_color=00BFFF&include_all_commits=true&count_private=true" width="48%" alt="Stats Card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashir-Ali-Shah&layout=compact&theme=tokyonight&hide_border=true&title_color=00BFFF&text_color=ffffff" width="45%" alt="Languages Card" />
-
-  <br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashir-Ali-Shah&theme=tokyonight&hide_border=true&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakNum=ffffff&sideLabels=ffffff" width="94%" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashir-Ali-Shah&theme=tokyonight&hide_border=true&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakNum=ffffff&sideLabels=ffffff" width="94%" />
 </div>
 
 ---
 
 <p align="center">
-  <i>“The function of good software is to make the complex appear to be simple.”</i><br>
-  — <strong>Grady Booch</strong>
+  <i>“The function of good software is to make the complex appear to be simple.”</i> — **Grady Booch**
 </p>
 
 <p align="center">
-  <sub>Built with 💻 and ☕ by <strong>Ashir Ali Shah</strong></sub>
+  <sub>Built with 💻 and ☕ by **Ashir Ali Shah**</sub>
 </p>
