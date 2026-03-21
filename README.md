@@ -48,8 +48,6 @@ I specialize in building **Production-Grade Agentic Systems**. My work at **Jade
 
   <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashir-Ali-Shah&theme=tokyonight&hide_border=true&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakNum=ffffff" width="48%" />
-
 </div>
 
 ---
