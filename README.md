@@ -5,57 +5,51 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ashir-ali-shah"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/hailashirali"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:ashiralishah2k3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Ashir-Ali-Shah&label=Views&color=00BFFF&style=flat-square" />
+  <a href="https://linkedin.com/in/ashir-ali-shah"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/hailashirali"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:ashiralishah2k3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🚀 Professional Narrative
-I am an **Applied AI Engineer** based in Islamabad, specializing in bridging the gap between experimental LLM wrappers and **production-grade Agentic systems**. Currently engineering at **JadeedX**, I focus on building self-correcting RAG pipelines and scalable AI microservices. 
+### 🚀 The Mission
+I specialize in building **Production-Grade Agentic Systems**. My work at **JadeedX** involves moving beyond basic RAG into **self-correcting, multi-agent workflows** that solve complex business logic. I bridge the gap between academic research (Quantum ML) and scalable software architecture.
 
-* 💡 **Proven Track Record:** Successfully delivered **50+ AI/Web projects** globally with a 4.8/5.0⭐ rating.
-* 🛠️ **Core Philosophy:** Moving beyond simple prompting toward **deterministic AI workflows** and robust MLOps.
-* 🎓 **Education:** Final-year Software Engineering student at SZABIST University.
+* 🧠 **Specialization:** Scalable Agentic Workflows & Production MLOps.
+* 🤝 **OSS:** Contributor to **LlamaIndex** ([PR #21063](https://github.com/run-llama/llama_index/pull/21063)).
+* 💼 **Experience:** 50+ Global projects | Former Global Microsoft MLSA Alpha.
 
 ---
 
 ### 🛠️ Technical Arsenal
 
-| Category | Tools & Frameworks |
-| :--- | :--- |
-| **Agentic & GenAI** | `LangGraph` (Multi-agent workflows), `LlamaIndex` (Advanced RAG), `LangChain`, `CrewAI` |
-| **AI/ML Core** | `Python`, `PyTorch`, `TensorFlow`, `Scikit-Learn`, `XGBoost`, `LSTM (Time-series)` |
-| **Backend & Orchestration** | `FastAPI`, `Docker`, `Redis` (Caching/Streaming), `PostgreSQL`, `Celery` |
-| **Vector DBs & Search** | `Weaviate`, `Pinecone`, `FAISS`, `ChromaDB` |
+| AI & Core | GenAI & Agents | Cloud & Backend |
+| :--- | :--- | :--- |
+| ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white) | `LangGraph` `Agentic RAG` | ![FastAPI](https://img.shields.io/badge/-FastAPI-005571?style=flat-square&logo=fastapi) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| ![TF](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white) ![Sklearn](https://img.shields.io/badge/-Sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) | `LlamaIndex` `LangChain` | ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![PG](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
 
 ---
 
 ### 🧪 Featured Production Projects
 
-| Project | Deep Dive | Stack |
+| Project | Innovation | Tech Stack |
 | :--- | :--- | :--- |
-| 🌌 **[NASA NEO Analytics](https://github.com/Ashir-Ali-Shah/nasa-neo-analytics)** | **Predictive Threat Intelligence:** Built a ReAct Agent that orchestrates XGBoost classifiers with real-time NASA API data for automated asteroid threat assessment. | `FastAPI`, `Redis`, `Weaviate`, `LangGraph` |
-| 📈 **[USGS Seismic Monitor](https://github.com/Ashir-Ali-Shah/earthquake-monitoring-project)** | **Hybrid Forecasting:** Combined PyTorch-based LSTM models for time-series forecasting with a semantic retrieval layer for historical event context. | `PyTorch`, `FAISS`, `Python` |
-| 🌫️ **[Urban AQI Advisor](https://github.com/Ashir-Ali-Shah/aqi-quality-prediction)** | **Decision Support:** A Random Forest regression model paired with a LLaMA 3-powered RAG agent to provide actionable health advice based on localized pollution metrics. | `LLaMA 3`, `Sklearn`, `Streamlit` |
-
----
-
-### 📑 Research & Distinctions
-* 🔬 **Research:** Co-authored *"Unlocking Potential: Hybrid Quantum-Classical Approaches to Machine Learning"* (Focused on QML optimization).
-* 🤝 **Open Source:** Contributed to **LlamaIndex** core ([PR #21063](https://github.com/run-llama/llama_index/pull/21063)).
-* 🌍 **Leadership:** Former **Global MLSA Alpha Ambassador** (Microsoft); Co-founder & Ops at **Frequenzy PK** (700+ attendee community events).
-* 🗣️ **Communication:** Scored **8.0/9.0** on the IELTS Academic Test.
+| 🌌 **[NASA NEO](https://github.com/Ashir-Ali-Shah/nasa-neo-analytics)** | **XGBoost + LangGraph** ReAct Agent for automated asteroid threat assessment. | `FastAPI` `Weaviate` `Redis` |
+| 🌫️ **[Urban AQI](https://github.com/Ashir-Ali-Shah/aqi-quality-prediction)** | Hybrid architecture: **Random Forest** regression paired with **LLaMA 3 RAG** advisor. | `LLaMA 3` `Sklearn` `Streamlit` |
+| 📉 **[USGS Seismic](https://github.com/Ashir-Ali-Shah/earthquake-monitoring-project)** | **PyTorch LSTM** time-series forecasting with **FAISS** semantic retrieval. | `PyTorch` `FAISS` `Python` |
 
 ---
 
 ### 📊 Engineering Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashir-Ali-Shah&show_icons=true&theme=tokyonight&hide_border=true&title_color=00BFFF&text_color=ffffff&icon_color=00BFFF&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashir-Ali-Shah&layout=compact&theme=tokyonight&hide_border=true&title_color=00BFFF&text_color=ffffff" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashir-Ali-Shah&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashir-Ali-Shah&layout=compact&theme=tokyonight&hide_border=true&title_color=00BFFF&text_color=ffffff&bg_color=0d1117" width="45%" />
+
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashir-Ali-Shah&theme=tokyonight&hide_border=true&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakNum=ffffff" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashir-Ali-Shah&theme=tokyonight&hide_border=true&area=true&color=00BFFF&bg_color=0d1117" width="48%" />
 </div>
 
 ---
