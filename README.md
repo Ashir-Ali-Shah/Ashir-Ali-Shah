@@ -44,12 +44,12 @@ I specialize in building **Production-Grade Agentic Systems**. My work at **Jade
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ashir-Ali-Shah&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff&bg_color=0d1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashir-Ali-Shah&layout=compact&theme=tokyonight&hide_border=true&title_color=00BFFF&text_color=ffffff&bg_color=0d1117" width="45%" />
+
 
   <br/>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashir-Ali-Shah&theme=tokyonight&hide_border=true&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakNum=ffffff" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashir-Ali-Shah&theme=tokyonight&hide_border=true&area=true&color=00BFFF&bg_color=0d1117" width="48%" />
+
 </div>
 
 ---
