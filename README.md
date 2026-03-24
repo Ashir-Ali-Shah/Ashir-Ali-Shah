@@ -51,7 +51,7 @@ I specialize in building **Production-Grade Agentic Systems**. My focus is movin
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ashir-Ali-Shah&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff&bg_color=0d1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashir-Ali-Shah&layout=compact&theme=tokyonight&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff&bg_color=0d1117" width="48%" />
+ 
 </div>
 
 ---
