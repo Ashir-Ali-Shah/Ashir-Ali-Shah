@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ashir Ali Shah (Roshaan)</h1>
+<h1 align="center">Hi 👋, I'm Ashir Ali Shah</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Applied+AI+Engineer+@JadeedX;Agentic+RAG+Architect;Full-Stack+AI+Systems;Quantum+ML+Researcher;Open+Source+Contributor" alt="Typing SVG" />
@@ -17,8 +17,8 @@ I specialize in building **Production-Grade Agentic Systems**. My focus is movin
 
 - 🧠 **Focus:** Scalable Agentic Workflows & Production MLOps.
 - 🤝 **OSS:** Contributor to **LlamaIndex** ([PR #21063](https://github.com/run-llama/llama_index/pull/21063)).
-- 💼 **Experience:** 50+ Global projects | Former Global Microsoft MLSA Alpha | Lead at AUDAS.
-- 🎓 **Academic:** Researching Hybrid Quantum-Classical approaches for Machine Learning.
+- 💼 **Experience:** 45++ Global projects | Former Global Microsoft MLSA Alpha.
+- 🎓 **Academic:** Wrote a research paper that has been sent for publication Hybrid Quantum-Classical approaches for Machine Learning.
 
 ---
 
