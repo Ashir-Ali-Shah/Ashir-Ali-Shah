@@ -45,9 +45,7 @@ I specialize in building **Production-Grade Agentic Systems**. My focus is movin
 
 ### 📊 Engineering Analytics
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ashir-Ali-Shah&theme=tokyonight&no-bg=true&margin-w=15" alt="Trophies" />
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ashir-Ali-Shah&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff&bg_color=0d1117" width="48%" />
