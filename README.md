@@ -17,7 +17,7 @@ I specialize in building **Production-Grade Agentic Systems**. My focus is movin
 
 - 🧠 **Focus:** Scalable Agentic Workflows & Production MLOps.
 - 🤝 **OSS:** Contributor to **LlamaIndex** ([PR #21063](https://github.com/run-llama/llama_index/pull/21063)).
-- 💼 **Experience:** 50+ Global projects | Former Global Microsoft MLSA Alpha.
+- 💼 **Experience:** 50+ Global projects completed with a 4.8★ rating | Former Global Microsoft MLSA Alpha.
 - 🎓 **Academic:** Co-authored a research paper on **Hybrid Quantum-Classical approaches for Machine Learning** (Under review).
 
 ---
@@ -46,24 +46,24 @@ I specialize in building **Production-Grade Agentic Systems**. My focus is movin
 ### 📊 Engineering Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashir-Ali-Shah&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashir-Ali-Shah&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff&bg_color=0d1117" width="65%" />
 </div>
 
 #### 🚀 Contribution & Impact Breakdown
 
-* **Community Validation:** A measure of project utility and reach, reflected through total **Stars** earned across public repositories.
-* **Development Velocity:** High-frequency **Commit** activity that demonstrates consistent shipping cycles and active maintenance of codebases.
-* **Collaboration Footprint:** A summary of **Pull Requests** and **Issues**, highlighting a proactive approach to peer reviews, bug tracking, and collective problem-solving.
-* **Ecosystem Engagement:** Involvement in external projects and open-source initiatives, showcasing a commitment to the broader engineering community.
+* **Community Validation:** Represents project utility and adoption, quantified via **Stars** across various public repositories.
+* **Development Velocity:** Continuous **Commit** activity reflecting active lifecycle management and consistent shipping of features.
+* **Collaboration Footprint:** Measures engagement through **Pull Requests** and **Issues**, highlighting active participation in peer-reviewed environments.
+* **Ecosystem Engagement:** Tracks contributions to global repositories and local initiatives, showcasing a commitment to open-source evolution.
 
 #### 🛠 Performance Metrics
 
-| Metric | Description | Focus |
+| Metric | Strategic Significance | Engineering Focus |
 | :--- | :--- | :--- |
-| **Total Commits** | Quantifies the volume of code pushed and iterative progress. | Persistence |
-| **PR Status** | Tracks merged contributions and collaborative technical debt management. | Synergy |
-| **Issue Activity** | Reflects diagnostic skills and involvement in project architecture. | Stability |
-| **Star Count** | Represents the "Social Proof" of technical solutions provided. | Influence |
+| **Total Commits** | Demonstrates technical persistence and iterative development cycles. | Scalability |
+| **PR Status** | Highlights collaborative proficiency and experience in code review processes. | Synergy |
+| **Issue Activity** | Reflects diagnostic capabilities and involvement in debugging complex systems. | Robustness |
+| **Star Count** | A qualitative indicator of community trust and repository value. | Authority |
 
 ---
 
