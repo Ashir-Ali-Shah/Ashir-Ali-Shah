@@ -45,9 +45,7 @@ I specialize in building **Production-Grade Agentic Systems**. My focus is movin
 
 ### 📊 Engineering Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashir-Ali-Shah&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff&bg_color=0d1117" width="65%" />
-</div>
+
 
 #### 🚀 Contribution & Impact Breakdown
 
@@ -56,16 +54,7 @@ I specialize in building **Production-Grade Agentic Systems**. My focus is movin
 * **Collaboration Footprint:** Measures engagement through **Pull Requests** and **Issues**, highlighting active participation in peer-reviewed environments.
 * **Ecosystem Engagement:** Tracks contributions to global repositories and local initiatives, showcasing a commitment to open-source evolution.
 
-#### 🛠 Performance Metrics
 
-| Metric | Strategic Significance | Engineering Focus |
-| :--- | :--- | :--- |
-| **Total Commits** | Demonstrates technical persistence and iterative development cycles. | Scalability |
-| **PR Status** | Highlights collaborative proficiency and experience in code review processes. | Synergy |
-| **Issue Activity** | Reflects diagnostic capabilities and involvement in debugging complex systems. | Robustness |
-| **Star Count** | A qualitative indicator of community trust and repository value. | Authority |
-
----
 
 ### 💬 Let's Connect
 - **💬 Ask Me About:** Agentic Workflows, Quantum ML, or how to scale AI systems.
