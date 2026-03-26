@@ -62,9 +62,9 @@ I specialize in building **Production-Grade Agentic Systems**. My focus is movin
 - **📫 Reach Me:** [LinkedIn](https://linkedin.com/in/ashir-ali-shah) or [Email](mailto:ashiralishah2k3@gmail.com).
 
 <p align="center">
-  <i>“The function of good software is to make the complex appear to be simple.”</i> — **Grady Booch**
+  <i>“The function of good software is to make the complex appear to be simple.”</i> — Grady Booch
 </p>
 
 <p align="center">
-  <sub>Built with 💻 and ☕ by **Ashir Ali Shah**</sub>
+  <sub>Built with 💻 and ☕ by Ashir Ali Shah</sub>
 </p>
