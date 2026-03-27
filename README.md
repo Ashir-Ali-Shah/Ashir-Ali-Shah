@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ashir Ali Shah</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Applied+AI+Engineer+@JadeedX;Agentic+RAG+Architect;Full-Stack+AI+Systems;Quantum+ML+Researcher;Open+Source+Contributor" alt="Typing SVG" />
-</p>
+# Hi 👋, I'm Ashir Ali Shah
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Applied+AI+Engineer+@JadeedX;Agentic+RAG+Architect;Full-Stack+AI+Systems;Quantum+ML+Researcher;Open+Source+Contributor" alt="Typing SVG" />
 
 <p align="center">
   <a href="https://linkedin.com/in/ashir-ali-shah"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -10,15 +10,25 @@
   <a href="mailto:ashiralishah2k3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
+</div>
+
 ---
 
 ### 🚀 The Mission
-I specialize in building **Production-Grade Agentic Systems**. My focus is moving beyond basic RAG into **self-correcting, multi-agent workflows** that solve complex business logic. I bridge the gap between academic research (Quantum ML) and scalable software architecture.
+> I specialize in building **Production-Grade Agentic Systems**. My focus is moving beyond basic RAG into **self-correcting, multi-agent workflows** that solve complex business logic. I bridge the gap between academic research (Quantum ML) and scalable software architecture.
 
 - 🧠 **Focus:** Scalable Agentic Workflows & Production MLOps.
 - 🤝 **OSS:** Contributor to **LlamaIndex** ([PR #21063](https://github.com/run-llama/llama_index/pull/21063)).
 - 💼 **Experience:** 50+ Global projects completed with a 4.8★ rating | Former Global Microsoft MLSA Alpha.
 - 🎓 **Academic:** Co-authored a research paper on **Hybrid Quantum-Classical approaches for Machine Learning** (Under review).
+
+---
+
+### 📊 Engineering Analytics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashir-Ali-Shah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="Stats Card" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashir-Ali-Shah&theme=tokyonight&hide_border=true" height="180" alt="Streak Card" />
+</div>
 
 ---
 
@@ -42,19 +52,6 @@ I specialize in building **Production-Grade Agentic Systems**. My focus is movin
 | 🚌 **[TapnTravel (IoT)](https://github.com/Ashir-Ali-Shah/tap-n-travel)** | RFID-enabled ticketing system modernizing public transport logistics. | `IoT` `RFID` `Embedded Systems` |
 
 ---
-
-### 📊 Engineering Analytics
-
-
-
-#### 🚀 Contribution & Impact Breakdown
-
-* **Community Validation:** Represents project utility and adoption, quantified via **Stars** across various public repositories.
-* **Development Velocity:** Continuous **Commit** activity reflecting active lifecycle management and consistent shipping of features.
-* **Collaboration Footprint:** Measures engagement through **Pull Requests** and **Issues**, highlighting active participation in peer-reviewed environments.
-* **Ecosystem Engagement:** Tracks contributions to global repositories and local initiatives, showcasing a commitment to open-source evolution.
-
-
 
 ### 💬 Let's Connect
 - **💬 Ask Me About:** Agentic Workflows, Quantum ML, or how to scale AI systems.
