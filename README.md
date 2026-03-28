@@ -2,7 +2,7 @@
 
 # Hi, I'm Ashir Ali Shah
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Applied+AI+Engineer+@JadeedX;Agentic+RAG+Architect;Full-Stack+AI+Systems;Quantum+ML+Researcher;Open+Source+Contributor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full-Stack+AI+Engineer;Open+Source+Contributor" alt="Typing SVG" />
 
 <p align="center">
   <a href="https://linkedin.com/in/ashir-ali-shah"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -17,22 +17,31 @@
 ### The Mission
 > I specialize in building **Production-Grade Agentic Systems**. My focus is moving beyond basic RAG into **self-correcting, multi-agent workflows** that solve complex business logic. I bridge the gap between academic research (Quantum ML) and scalable software architecture.
 
--  **Focus:** Scalable Agentic Workflows & Production MLOps.
-- **OSS:** Contributor to **LlamaIndex** ([PR #21063](https://github.com/run-llama/llama_index/pull/21063)).
+- **Focus:** Scalable Agentic Workflows & Production MLOps.
 - **Experience:** 50+ Global projects completed with a 4.8★ rating | Former Global Microsoft MLSA Alpha.
 - **Academic:** Co-authored a research paper on **Hybrid Quantum-Classical approaches for Machine Learning** (Under review).
 
 ---
 
-### Github Analytics
+### 🌐 Open Source Impact
+*Improving the ecosystem through optimized retrieval and developer documentation.*
+
+- **LlamaIndex** ([PR #21063](https://github.com/run-llama/llama_index/pull/21063)): Optimized retrieval logic and resolved critical documentation errors to improve developer onboarding.
+- **LangChain**: Contributed to core documentation accuracy, ensuring seamless integration of complex agentic chains for the community.
+
+---
+
+### 📊 GitHub Analytics & Profile Grade
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashir-Ali-Shah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="Stats Card" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashir-Ali-Shah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show_rank=true" height="180" alt="GitHub Grade" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashir-Ali-Shah&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Languages Card" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Ashir-Ali-Shah&theme=tokyonight&hide_border=true" width="100%" alt="Streak Card" />
 </p>
+
 ---
 
 ### 🛠️ Technical Arsenal
@@ -52,7 +61,6 @@
 | **[NASA NEO Analytics](https://github.com/Ashir-Ali-Shah/nasa-neo-analytics)** | ReAct Agent for automated asteroid threat assessment & predictive analytics. | `XGBoost` `LangGraph` `Weaviate` |
 | **[Urban Air Quality Sentinel](https://github.com/Ashir-Ali-Shah/aqi-quality-prediction)** | Hybrid architecture: Regression paired with LLaMA 3 RAG for city-wide smog forecasting. | `LLaMA 3` `Sklearn` `Streamlit` |
 | **[USGS Seismic Intelligence](https://github.com/Ashir-Ali-Shah/earthquake-monitoring-project)** | Time-series forecasting with FAISS semantic retrieval for disaster research. | `PyTorch LSTM` `FAISS` `Python` |
-| **[TapnTravel (IoT)](https://github.com/Ashir-Ali-Shah/tap-n-travel)** | RFID-enabled ticketing system modernizing public transport logistics. | `IoT` `RFID` `Embedded Systems` |
 
 ---
 
