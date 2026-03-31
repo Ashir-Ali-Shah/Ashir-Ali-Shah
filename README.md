@@ -53,20 +53,21 @@ I specialize in building **Scalable AI Systems**. My focus is moving beyond basi
 ---
 
 ### 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashir-Ali-Shah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show_rank=true" height="180" alt="GitHub Grade" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashir-Ali-Shah&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Languages Card" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashir-Ali-Shah&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&include_all_commits=true" height="185" alt="Ashir's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashir-Ali-Shah&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="185" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ashir-Ali-Shah&theme=tokyonight&hide_border=true" width="100%" alt="Streak Card" />
+  <img src="https://streak-stats.demolab.com?user=Ashir-Ali-Shah&theme=tokyonight&hide_border=true&border_radius=5" width="100%" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### Let's Connect
 - **Ask Me About:** Agentic Workflows and scaling AI systems.
-- **Currently Working At:**  at JadeedX.
+- **Currently Working At:** JadeedX.
 - **Reach Me:** [LinkedIn](https://linkedin.com/in/ashir-ali-shah) | [Email](mailto:ashiralishah2k3@gmail.com)
 
 <p align="center">
