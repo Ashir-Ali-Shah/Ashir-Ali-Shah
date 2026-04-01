@@ -51,29 +51,26 @@ I specialize in building **Scalable AI Systems**. My focus is moving beyond basi
 | **[USGS Seismic Intel](https://github.com/Ashir-Ali-Shah/earthquake-monitoring-project)** | Time-series forecasting with FAISS semantic retrieval. | `PyTorch LSTM` `FAISS` `Python` |
 
 ---
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashir-Ali-Shah&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&include_all_commits=true" height="195" alt="Ashir's GitHub Stats" />
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=Ashir-Ali-Shah&theme=tokyonight&no-bg=true&margin-w=15&column=3" height="195" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ashir-Ali-Shah&theme=tokyonight&hide_border=true&border_radius=5" width="100%" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-repos/?username=Ashir-Ali-Shah&layout=compact&theme=tokyonight&hide_border=true&repos_count=4" width="100%" alt="Top Repositories" />
-</p>
-
----
 
 ### Let's Connect
 - **Ask Me About:** Agentic Workflows and scaling AI systems.
 - **Currently Working At:** JadeedX.
 - **Reach Me:** [LinkedIn](https://linkedin.com/in/ashir-ali-shah) | [Email](mailto:ashiralishah2k3@gmail.com)
 
+---
+
+## Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ashir-Ali-Shah/Ashir-Ali-Shah/output/github-snake.svg" alt="GitHub Snake Animation" />
+</p>
+
+---
+
 <p align="center">
   <i>“The function of good software is to make the complex appear to be simple.”</i> — Grady Booch
 </p>
+
+--- 
+
+
