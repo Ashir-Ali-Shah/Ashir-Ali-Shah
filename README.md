@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full-Stack+AI+Engineer;Open+Source+Contributor;Freelancer" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://github.com/Ashir-Ali-Shah/Ashir-Ali-Shah/assets/image-hosting/developer-lofi.gif" alt="Animated character programming intensely" width="500" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="AI Engineering Aesthetic" width="600" />
 </p>
 
 <p align="center">
