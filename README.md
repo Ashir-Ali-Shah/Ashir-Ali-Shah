@@ -51,12 +51,15 @@ I specialize in building **Scalable AI Systems**. My focus is moving beyond basi
 | **[USGS Seismic Intel](https://github.com/Ashir-Ali-Shah/earthquake-monitoring-project)** | Time-series forecasting with FAISS semantic retrieval. | `PyTorch LSTM` `FAISS` `Python` |
 
 ---
-
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashir-Ali-Shah&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&include_all_commits=true" height="185" alt="Ashir's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashir-Ali-Shah&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="185" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashir-Ali-Shah&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&include_all_commits=true" height="195" alt="Ashir's GitHub Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ashir-Ali-Shah&theme=tokyonight&no-bg=true&margin-w=15&column=3" height="195" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashir-Ali-Shah&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
 </p>
 
 <p align="center">
