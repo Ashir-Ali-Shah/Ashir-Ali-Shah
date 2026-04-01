@@ -5,9 +5,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full-Stack+AI+Engineer;Open+Source+Contributor;Freelancer" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://media.giphy.com/media/u04b3jK279O7e/giphy.gif" alt="AI Engineering Aesthetic" width="600" />
-</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/ashir-ali-shah"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
