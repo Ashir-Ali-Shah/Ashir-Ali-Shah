@@ -41,6 +41,8 @@ I specialize in building **Scalable AI Systems**. My focus is moving beyond basi
 | ![TF](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white) ![Sklearn](https://img.shields.io/badge/-Sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) | `LlamaIndex` `LangChain` | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Weaviate](https://img.shields.io/badge/-Weaviate-00A6FB?style=flat-square) |
 | `Quantum ML` `Computer Vision` | `Function Calling` `Multi-Agent` | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 
+![Ashir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashir-Ali-Shah&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&hide_border=true&include_all_commits=true&count_private=true)
+
 ---
 
 ### 🚀 Featured Production Projects
