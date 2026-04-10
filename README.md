@@ -43,8 +43,6 @@ I specialize in building **Scalable AI Systems**. My focus is moving beyond basi
 
 ![Ashir's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Ashir-Ali-Shah&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&hide_border=true&include_all_commits=true&count_private=true)
 ---
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ashir-Ali-Shah&theme=tokyonight)
 ### 🚀 Featured Production Projects
 
 | Project | Innovation | Tech Stack |
