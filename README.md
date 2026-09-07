@@ -55,7 +55,7 @@ I specialize in building **Scalable AI Systems**. My focus is moving beyond basi
 
 ### Let's Connect
 - **Ask Me About:** Agentic Workflows and scaling AI systems.
-- **Currently Working At:** JadeedX.
+- **Previously Worked At:** JadeedX.
 - **Reach Me:** [LinkedIn](https://linkedin.com/in/ashir-ali-shah) | [Email](mailto:ashiralishah2k3@gmail.com)
 
 ---
